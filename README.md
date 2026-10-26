@@ -12,7 +12,7 @@ posts/
     slide1.mp4 … slide3.mp4   3-slide carousel, 1080 × 1920, 10 s seamless loops with sound (Instagram)
     slide1.png … slide3.png   the same slides as stills (Pinterest carousel)
     slide1.jpg … slide3.jpg   the stills as JPEG (TikTok photo carousel)
-    reel.mp4                  18 s swipe through all three slides with sound (YouTube Shorts)
+    reel.mp4                  18 s swipe through all three slides with sound (YouTube Shorts, morning Instagram Reel)
     captions.json             post ID, scheduled time, the caption, title and tags for each network, plus the quote and its source
 ```
 
@@ -20,7 +20,7 @@ Each post is made for one platform, so a folder holds only the files that platfo
 
 | Platform | Files |
 |---|---|
-| Instagram + Threads | slide1–3.mp4 (moving carousel), slide1–3.png |
+| Instagram + Threads | slide1–3.mp4 (moving carousel), slide1–3.png; the morning Instagram post (ID ending -02) also has reel.mp4 and goes out as a Reel |
 | TikTok | slide1–3.jpg (photo carousel) |
 | YouTube Shorts | reel.mp4, slide1.png |
 | Pinterest | slide1–3.png (carousel pin) |
